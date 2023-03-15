@@ -1,7 +1,7 @@
-
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Minchan Kang</h1>
-<h3 align="center">from south Korea</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rIr3OpcmDKYAAAAM/brentrambo-thumbsup.gif">
+<h3 align="center">From South Korea</h3>
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/rIr3OpcmDKYAAAAM/brentrambo-thumbsup.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=77max77&label=Profile%20views&color=0e75b6&style=flat" alt="77max77" /> </p>
 
 <p align="left">
