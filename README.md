@@ -1,8 +1,20 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Minchan Kang</h1>
 <h3 align="center">From South Korea</h3>
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/rIr3OpcmDKYAAAAM/brentrambo-thumbsup.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rIr3OpcmDKYAAAAM/brentrambo-thumbsup.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=77max77&label=Profile%20views&color=0e75b6&style=flat" alt="77max77" /> </p>
+
+- 🔭 I'm interested in Data Science.
+
+
+- 🌱 I'm a college student.
+
+
+- 🖥️ My major is computer engineering
+
+
+- 📫 How to reach me **maxkingdom34@gmail.com**
+
 
 <p align="left">
 </p>
