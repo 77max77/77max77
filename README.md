@@ -18,4 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=77max77&show_icons=true&locale=en" alt="77max77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=77max77&" alt="77max77" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=77max77&show_icons=true&theme=radical)
+
