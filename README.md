@@ -15,7 +15,7 @@
 - 🌱 I'm a college student.
 
 
-- 🖥️ My major is computer engineering
+- 🖥️ My major is Computer Science and Engineering.
 
 
 - 📫 How to reach me **maxkingdom34@gmail.com**
