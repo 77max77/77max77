@@ -1,7 +1,4 @@
-
-
-
-
+(img align="right" alt="Coding" width="400" src="https://media.tenor.com/8PVFZULgUWwAAAAC/kaito-gaming.gif")
 <h1 align="center">Hi 👋, I'm Minchan Kang</h1>
 <h3 align="center">from south Korea</h3>
 
