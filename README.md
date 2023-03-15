@@ -1,7 +1,7 @@
 
 
 
-(img align="center" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://huntimages.s3.us-west-2.amazonaws.com/production/steemhunt/2018-09-17/db071e61-controller-clipart-animated-gif-5.gif)")
+
 <h1 align="center">Hi 👋, I'm Minchan Kang</h1>
 <h3 align="center">from south Korea</h3>
 
